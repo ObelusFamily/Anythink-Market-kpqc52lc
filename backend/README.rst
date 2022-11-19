@@ -33,3 +33,13 @@ Project structure
 -----------------
 
 Project dependencies are managed by poetry `(https://python-poetry.org)`, using venv `(https://docs.python.org/3/library/venv.html)`.
+
+
+How to Fresh Install
+--------------------
+
+1 Clone the repo in your local machine
+
+2 Create a new Github Codespace
+
+3  run ``docker-compose up`` 
