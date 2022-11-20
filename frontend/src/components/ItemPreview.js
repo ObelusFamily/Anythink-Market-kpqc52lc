@@ -31,7 +31,7 @@ const ItemPreview = (props) => {
 
   const getImage = (img) => {
     return img ? img : "/placeholder.png";
-  }
+  };
 
   return (
     <div
